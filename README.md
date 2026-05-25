@@ -3,3 +3,9 @@
 > The project also includes features like automatic language detection, translated text display, and an optional copy feature for better usability. This application demonstrates the practical implementation of APIs, natural language processing concepts, and user interface development.
 > The main objective of this project is to make communication easier between people speaking different languages and to provide a fast, accurate, and accessible translation system for education, travel, business, and daily communication purposes.
 > Additional features like automatic language detection, multiple language support, and copyable translated text improve the usability and efficiency of the application. This project demonstrates how artificial intelligence and cloud-based APIs can be used to create practical real-world applications that simplify communication across different languages and cultures.
+
+
+
+
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/37f9fa3f-e248-48b7-b37c-3e4fbbd68ef7" />
+<img width="1792" height="1120" alt="Image" src="https://github.com/user-attachments/assets/2424b516-d529-4a45-9ca4-7271600fb5ef" />
